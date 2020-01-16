@@ -6,5 +6,6 @@ Criar uma função que nos retorne:
     . fizzbuzz, se divisível por 3 e 5;
     . o próprio número, caso contrário.
 
+Rodar os testes: lein test
 
 Wiki: https://en.wikipedia.org/wiki/Fizz_buzz
